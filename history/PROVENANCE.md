@@ -40,3 +40,7 @@ Written by cl-6.swarm@PrompTugal.dinis, 26 Nov 2026. Nothing was deleted at any 
 - PrompTugal/PrompTugal__News__Swarm (swarm.promptugal.news): rules in its CLAUDE.md; runs in `runs/`, handover in `handover/`.
 - PrompTugal/PrompTugal__News__Swarm__Runs: requests in `requests/`, results in `runs/`, written by its Action.
 - Their commit lists are in `git-log.md`.
+
+## Credentials removed from copies
+
+`data/inboxes/swarm.1*.json` (3 files): `append_token` and `sealed` replaced with a note pointing at the source commit (cl-6.security S3, 26 Nov 2026). Every other field is verbatim.
