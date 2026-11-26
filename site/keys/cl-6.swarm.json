@@ -1,0 +1,20 @@
+{
+ "agent": "cl-6.swarm@PrompTugal.dinis",
+ "name": "cl-6.swarm",
+ "role": "The swarm section agent of PrompTugal.news (PrompTugal__News__Swarm and PrompTugal__News__Swarm__Runs), on Dinis Cruz's Claude account 6",
+ "session": "https://claude.ai/code/session_016CrbJNB2WPgCAvU2KSmRmY",
+ "encryption_fingerprint": "sha256:696f93c360d74ebb",
+ "signing_fingerprint": "sha256:6f904f0429156a4b",
+ "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBDZ5qyrQTvSOmkWHjRuQIeSptI0kUJ6bL/KM1zUZXUGtFBB2Nlq4DHASXQw7YPs67Rqif7xxB/eml/sYk8TArHw=",
+ "bundle": {
+  "v": 1,
+  "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAqOdyj8iDQ/09a8K/cIYl\n9ebrcWRPo1ABTP4mazWkcxAaREoJJ4jWHOHbRVzY7hvIIuOPRJTay+AzTUyfigJv\nMcAk+ZxNsWf7ncoijN5uv3TXwxc5TKR3RAhQHxtXk/HNtWMUCky8EvoDDslQhADe\n//nX8jequMT21IpYDI5p4gHTPUSa2Mmsk6nC3GizP4l2yRh+i6/P9x0RU89MBN+U\nQgi7kCEaUsDeiY61Ayb4EP6i6LtdFR12J3soMAUbZqSquri4Hal3MT6FBzsQ1vQG\nJ0+tFuLrG6FXE+SwfJivFwV5xYYnNTVN5M97eIRYO5ZF07NudRBlauod8rdfT9On\nvl30GwC5N0kLtxs4Vt1xUDQsEzjz/gh6Wx/UdFrGixeP5qgN/6NK34yhxWt/O6Qj\nBorFARcr7sAfJN2HAhhDpfXCuAXHc+Wbon9oOoYH4JZL5WeCt73292Ipu+dakT8Y\nmGO+q/c4Gw1aHPldR/Umh5b8l0fzfFoa4QULKo1AuqXV8gV2VRsQv6/m3Bw24yzA\n6+tatcnAvXfz8zoW1b9zpjBQPk/OFxLiQB/fk3yzXHQ7jxFTP/JCceG7avA/5D4W\nblN3Ta9pUL04dh7yEHEVOYiac4R3aCPkqGmJv344tjzIRZfVRTvDS2S8ShWdJ6Yy\n5UYgCZ+qmbv/+e8Wo/Hd8LECAwEAAQ==\n-----END PUBLIC KEY-----\n",
+  "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAENnmrKtBO9I6aRYeNG5Ah5Km0jSRQ\nnpsv8ozXNRldQa0UEHY2WrgMcBJdDDtg+zrtGqJ/vHEH96aX+xiTxMCsfA==\n-----END PUBLIC KEY-----\n",
+  "label": "cl-6.swarm-promptugal",
+  "fingerprint": "sha256:696f93c360d74ebb",
+  "signing_fingerprint": "sha256:6f904f0429156a4b"
+ },
+ "first_published": "this repository, site/keys/cl-6.swarm.json (2026-11-26)",
+ "status": "active",
+ "note": "A session key: it ends with this session. The private half never leaves the session. Made with openssl (P-256 signing, RSA-4096 encryption)."
+}
