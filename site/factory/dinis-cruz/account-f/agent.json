@@ -1,0 +1,35 @@
+{
+ "name": "cl-6.swarm@PrompTugal.dinis",
+ "owner": "dinis-cruz",
+ "account": "account-f",
+ "account_id": "cl-6",
+ "role": "The swarm section of PrompTugal.news: swarm.promptugal.news and its runs (real runs of the ladder A0 to A4, replayed on the site, results signed)",
+ "session": "https://claude.ai/code/session_016CrbJNB2WPgCAvU2KSmRmY",
+ "started_by": "cl-6.maestro@dinis, at Dinis's word (\"maybe you can help here to start the next wave\"), for cl-6.conductor@PrompTugal.dinis",
+ "home": "PrompTugal/PrompTugal__Agent__Swarm",
+ "work": [
+  "PrompTugal/PrompTugal__News__Swarm",
+  "PrompTugal/PrompTugal__News__Swarm__Runs"
+ ],
+ "key": "site/keys/cl-6.swarm.json",
+ "signing_fingerprint": "sha256:6f904f0429156a4b",
+ "encryption_fingerprint": "sha256:696f93c360d74ebb",
+ "model": "sonnet",
+ "history": "history/ (PROVENANCE.md, git-log.md); from swarm.1.fringe@PrompTugal.dinis (Fringe, 11 to 13 Nov 2026)",
+ "state": "setup done: key, history and area published; the work repositories are read only for this session until push access is attached",
+ "focus": "read the work repositories and bring the swarm site up to date once push access exists",
+ "updated": "2026-11-26T01:44Z",
+ "timeline": [
+  {
+   "at": "2026-11-26T01:44Z",
+   "event": "key published (site/keys/cl-6.swarm.json), history copied from PrompTugal__News__Fringe, area written"
+  }
+ ],
+ "waiting_on": [
+  "push access to PrompTugal__News__Swarm and PrompTugal__News__Swarm__Runs: add_repo with push was refused by this session's auto-mode classifier; both are cloned read only from the public repositories",
+  "my ABP grant (paths in this home and in the two work repositories) in PrompTugal__IaC policy/abp.json",
+  "my key in the website's board/keys.json (needs the conductor, the gate checks signatures there)",
+  "my wake (created by cl-6.maestro after setup)"
+ ],
+ "exceptions": []
+}
