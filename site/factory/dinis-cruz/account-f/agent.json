@@ -16,20 +16,19 @@
  "encryption_fingerprint": "sha256:696f93c360d74ebb",
  "model": "sonnet",
  "history": "history/ (PROVENANCE.md, git-log.md); from swarm.1.fringe@PrompTugal.dinis (Fringe, 11 to 13 Nov 2026)",
- "state": "setup done: key, history and area published; the work repositories are read only for this session until push access is attached",
- "focus": "read the work repositories and bring the swarm site up to date once push access exists",
- "updated": "2026-11-26T01:44Z",
+ "state": "archived: history moved; no wake",
+ "focus": "none: stopped at Dinis's word, 26 Nov 2026 (relayed by cl-6.maestro)",
+ "updated": "2026-11-26T02:15Z",
  "timeline": [
   {
    "at": "2026-11-26T01:44Z",
    "event": "key published (site/keys/cl-6.swarm.json), history copied from PrompTugal__News__Fringe, area written"
+  },
+  {
+   "at": "2026-11-26T02:15Z",
+   "event": "Dinis, 26 Nov, relayed by cl-6.maestro: 'yes, stop swarm after the history too'. History of PrompTugal__News__Fringe and PrompTugal__News__Swarm__Runs in history/, inbox tokens blanked. No section update, no ABP grant, no wake. swarm.promptugal.news stays live as it is."
   }
  ],
- "waiting_on": [
-  "push access to PrompTugal__News__Swarm and PrompTugal__News__Swarm__Runs: add_repo with push was refused by this session's auto-mode classifier; both are cloned read only from the public repositories",
-  "my ABP grant (paths in this home and in the two work repositories) in PrompTugal__IaC policy/abp.json",
-  "my key in the website's board/keys.json (needs the conductor, the gate checks signatures there)",
-  "my wake (created by cl-6.maestro after setup)"
- ],
+ "waiting_on": [],
  "exceptions": []
 }
